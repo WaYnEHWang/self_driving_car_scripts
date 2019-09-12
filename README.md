@@ -1,10 +1,10 @@
 # self_driving_car_scripts
 
-##Introduction
+#Introduction:
 The scripts in this file are used to execute the procedure automatically.
 
 
-##Files:
+#Files:
 
 #auto_build.sh:
 This script is used to build apollo automatically.
