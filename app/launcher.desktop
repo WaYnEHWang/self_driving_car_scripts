@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Launcher
+Comment=This Application is used to launch Docker.
+Icon=/home/acer/source/apollo/modules/autoset/app/Docker.png
+Exec=bash /home/acer/source/apollo/modules/autoset/auto_launch_app.sh
+Type=Application
+Encoding=UTF-8
+Terminal=true
+Categories=None;
+GenericName[en_US]=This Application is used to launch Docker.
+
+

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Running Man
+Comment=This Application is used to drive vehicle automatically after setting round times.
+Icon=/home/acer/source/apollo/modules/autoset/app/run.png
+Exec=bash /home/acer/source/apollo/modules/autoset/auto_round_app.sh
+Type=Application
+Encoding=UTF-8
+Terminal=true
+Categories=None;
+GenericName[en_US]=This Application is used to drive vehicle automatically after setting round times.
+
+
