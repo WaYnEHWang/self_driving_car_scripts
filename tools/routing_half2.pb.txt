@@ -1,0 +1,21 @@
+header {
+    timestamp_sec: 1173545118.51
+    module_name: "routing"
+    sequence_num: 1
+}
+waypoint {
+  id: "lane_2"
+  s: 15.103297136900354
+  pose {
+    x: 335324.72
+    y: 2759449.89
+  }
+}
+waypoint {
+  id: "lane_2"
+  s: 44.04052347886276
+  pose {
+    x: 335122.89
+    y: 2759754.58
+  }
+}
